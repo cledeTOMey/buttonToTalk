@@ -2,4 +2,7 @@
     <string name="app_name">button to talk</string>
     <string name="listen">Écouter</string>
     <string name="connected_garden">Jardin connecté</string>
+    <string name="ip_address_indication">Adresse IP du broker mosquitto :</string>
+    <string name="tcp">tcp://</string>
+    <string name="ip_address">192.168.43.225</string>
 </resources>
